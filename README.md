@@ -2,7 +2,8 @@
 
 Python for everybody exercises
 
-[:link: PY4E official website](https://www.py4e.com)
+[:link: PY4E Official Website](https://www.py4e.com)
+[:link: Naver Boostcourse](https://www.boostcourse.org/cs122)
 
 - Chapter 1: What is Python
 - Chapter 2: Variables and Expressions

@@ -1,7 +1,8 @@
-# PY4E
+# 🐍 PY4E
 
-Python for everybody
-[PY4E official website](https://www.py4e.com)
+Python for everybody exercises
+
+[:link: PY4E official website](https://www.py4e.com)
 
 - Chapter 1: What is Python
 - Chapter 2: Variables and Expressions

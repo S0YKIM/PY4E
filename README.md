@@ -1,8 +1,9 @@
 # 🐍 PY4E
 
-Python for everybody exercises
+## Python for everybody exercises
 
 [:link: PY4E Official Website](https://www.py4e.com)
+
 [:link: Naver Boostcourse](https://www.boostcourse.org/cs122)
 
 - Chapter 1: What is Python

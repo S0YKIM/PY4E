@@ -8,7 +8,7 @@
 
 - Chapter 1: What is Software
 
-  - Software, hardware, and raspberry pie [:memo:](https://love-every-moment.tistory.com/27)
+  - Software, hardware, and raspberry pi [:memo:](https://love-every-moment.tistory.com/27)
   - Reserved words and program steps [:memo:](https://love-every-moment.tistory.com/28)
 
 - Chapter 2: Variables and Expressions
